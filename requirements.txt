@@ -1,0 +1,19 @@
+python-dotenv
+
+langchain
+langchain-core
+langchain-community
+
+## llm providers
+langchain-groq
+langchain-text-splitters
+
+### vector db
+faiss-cpu
+
+## notebook
+jupyter
+ipykernel
+
+# web app
+streamlit
